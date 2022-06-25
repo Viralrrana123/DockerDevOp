@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Hpm8xlf4zsQEvAUD8ow1IUN3Qo3bKajTdLJdmjkrycb/kHmYuNRnnd2oVH2FiBXlXMN8hhQfvit0W3IccWaVtA==",
+  "dgSpecHash": "cnn4ogYkEFfiqMtlIyRIvgz55qnXdWADSW8a86Hqn1mWay42F+L353v76kIRz3fsbXVgOzWjVI2Hij8vKS+ycA==",
   "success": true,
   "projectFilePath": "D:\\Profesion\\DockerDevOps\\DockerDevOps\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\viral\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
   "logs": []
 }
